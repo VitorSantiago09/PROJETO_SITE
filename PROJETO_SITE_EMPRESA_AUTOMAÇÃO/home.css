@@ -1,0 +1,48 @@
+header#cabecalho img#img1{
+    position:absolute;
+    left: 1150px;
+    top: 25px;
+}
+header#cabecalho h1#nomeEmpresa{
+    position: absolute;
+    font:arial;
+    left: 100px;
+    top: 30px;
+    color: rgba(194, 194, 28, 0.952);
+    font-weight: bold;
+}
+header#cabecalho{
+    width: auto;
+    height: 100px;
+    background-color: rgb(120, 51, 185);
+    border-bottom: 100px black solid;
+}
+nav#menu {
+    display: block;
+}
+nav#menu ul{
+    position: relative;
+    list-style: none;
+    text-transform: uppercase;
+    top: 140px;
+    left: 50px;
+    font: arial;
+    font-size: large;
+    width: 900px;
+    font-weight: bold;
+}
+nav#menu ul li{
+    display: inline;
+    margin: 50px;
+}
+nav#menu ul li a{
+    text-decoration: none;
+    color: rgb(187, 187, 28);
+}
+nav#menu ul li:hover{
+    text-decoration-line: underline;
+    
+}
+body{
+    background-color: gray;
+}
