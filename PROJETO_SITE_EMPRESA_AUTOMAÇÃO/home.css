@@ -46,3 +46,23 @@ nav#menu ul li:hover{
 body{
     background-color: gray;
 }
+div#rodape footer{
+    position: relative;
+    width: auto;
+    font-weight: bold;
+    padding-bottom: 15px;
+    top: auto;
+    color: yellow;
+    background-color: black;
+    text-align: center;
+}
+div#rodape footer p#sendimg{
+    position: relative;
+    left: -250px;
+}
+div#rodape footer p#secimg{
+    position: absolute;
+    left: 700px;
+    bottom: 50px;
+}
+
