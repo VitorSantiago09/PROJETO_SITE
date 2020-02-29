@@ -51,6 +51,7 @@ div#rodape footer{
     width: auto;
     font-weight: bold;
     padding-bottom: 15px;
+    padding-top: 10px;
     top: auto;
     color: yellow;
     background-color: black;
@@ -65,4 +66,7 @@ div#rodape footer p#secimg{
     left: 700px;
     bottom: 50px;
 }
-
+div#txthome{
+    background-color: white;
+    padding: 10px;
+}
