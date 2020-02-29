@@ -74,3 +74,22 @@ div#txthome{
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
 }
+div#divbusca{
+    background-color: aliceblue;
+    width: 300px;
+    height: 30px;
+    position: relative;
+    left: 600px;
+    top: 5px;
+}
+div#divbusca input{
+    width: 300px;
+    height: 30px;
+}
+div#divbusca img#lupimg{
+    position: relative;
+    width: 40px;
+    height: 34px;
+    left: 265px;
+    top: -35px;
+}
